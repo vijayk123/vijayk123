@@ -1,1 +1,2 @@
 another file in file2
+seconf line in file2
